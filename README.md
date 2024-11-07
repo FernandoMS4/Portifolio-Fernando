@@ -1,3 +1,5 @@
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiY2I4ZjFhNTMtMjY4ZS00YjkxLWFhZDYtYWI5NTY0OTc1OGZjIiwidCI6IjQxOTNmMGQzLTI4ODAtNDUxMS04ZTdhLTRkNTc4MDg3OWNkZSJ9
+
 Estou animado para compartilhar um novo projeto que desenvolvi em Python, usando PySpark para tratar dados de uma API de um jogo que marcou minha vida: Ragnarok. 🎮✨
 Para aqueles que já jogaram ou ainda jogam Ragnarok e sentem uma grande nostalgia ao lembrar do game, este projeto tem como objetivo coletar dados do jogo e aplicar e aprender técnicas de engenharia e BI.
 
