@@ -38,4 +38,5 @@ current.futures
 DoteEnv
 findspark
 Dbeaver
+Figma
 
