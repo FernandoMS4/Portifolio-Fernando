@@ -9,9 +9,13 @@ Armazenamento 💾: Inserção do DataFrame em um Data Lake fictício e uso do R
 
 
 Tratamento e Limpeza 🧹: Usei PySpark para corrigir erros, limpar dados incorretos e estruturar novas tabelas para consulta em um BI sem retrabalho.
+
+![image](https://github.com/user-attachments/assets/a50dbd1f-4ee7-4329-b9c7-3dbfdda23293)
+
+
 Exportação 📤: Transferência das novas tabelas para um Data Warehouse fictício usando MySQL.
 
-![image](https://github.com/user-attachments/assets/cd73ef2f-59cc-4d7a-9eea-f937b4ae4a4c)
+![image](https://github.com/user-attachments/assets/b9b800e9-5e46-42f0-8b25-b29354d90f7a)
 
 
 Visualização 📈: Criação de um BI para visualização dos dados.
