@@ -1,3 +1,5 @@
+![V2](https://github.com/user-attachments/assets/8299f759-bb18-4184-af73-a49f9626c969)
+
 Dashboard: https://app.powerbi.com/view?r=eyJrIjoiY2I4ZjFhNTMtMjY4ZS00YjkxLWFhZDYtYWI5NTY0OTc1OGZjIiwidCI6IjQxOTNmMGQzLTI4ODAtNDUxMS04ZTdhLTRkNTc4MDg3OWNkZSJ9
 
 Estou animado para compartilhar um novo projeto que desenvolvi em Python, usando PySpark para tratar dados de uma API de um jogo que marcou minha vida: Ragnarok. 🎮✨
