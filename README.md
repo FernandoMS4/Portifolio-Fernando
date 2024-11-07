@@ -22,7 +22,8 @@ Visualização 📈: Criação de um BI para visualização dos dados.
 Principais Desafios 🏗:
 Requisições da API em Lotes 🗂️: Muitos dados e incerteza sobre o range de IDs. Usei a biblioteca "current" para facilitar requisições em grande escala.
 
-![image](https://github.com/user-attachments/assets/05620d34-72bf-48f4-9fd1-a50ea2f3db6d)
+![image](https://github.com/user-attachments/assets/f3bce3f2-9561-441e-8c29-07a5059cc504)
+
 
 Instalação do PySpark 🛠️: Realizei o projeto no Windows, enfrentando desafios na instalação do Spark, que consegui resolver após muitos erros.
 Uso do Spark 🔍: Primeiro contato com a ferramenta, aprendendo a utilizar bibliotecas e estruturar tabelas através de pesquisa e prática contínua.
